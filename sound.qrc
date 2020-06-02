@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/sound">
+        <file>Spongebob Music - Background Music (HD).mp3</file>
+    </qresource>
+</RCC>
